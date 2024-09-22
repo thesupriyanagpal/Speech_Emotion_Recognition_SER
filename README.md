@@ -25,6 +25,8 @@ The Speech Emotion Recognition (SER) project aims to develop a system that detec
 
 ### 📂 Project Demo Link:
 - Youtube: https://www.youtube.com/watch?v=y2ouYjRfGxM
+- Medium Blog: https://thesupriyanagpal.medium.com/building-a-speech-emotion-recognition-system-using-machine-learning-2212d3f20c65
+- Colab: https://colab.research.google.com/drive/1RxEFx1kBMt-htb6SEHBFU-jF0QWjlgST?usp=sharing
 
 ### Social Links
 - LinkedIn: https://www.linkedin.com/in/supriyanagpal
